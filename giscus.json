@@ -1,4 +1,4 @@
 {
-  "origins": ["https://ruimarques.dev"],
+  "origins": ["https://ruimarques.dev","https://www.ruimarques.dev"],
   "originsRegex": ["http://localhost:[0-9]+", "https://[a-z0-9-]+\\.ruimarques-dev\\.pages\\.dev"]
 }
